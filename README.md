@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PoojaaMM2002
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning  Data analytics
+- 👀 I’m interested in Data Analysis and Software development
+- 🌱 I’m currently working as an intern in software development
 - 📫 How to reach me  poojaamm2002@gmail.com
 
 
